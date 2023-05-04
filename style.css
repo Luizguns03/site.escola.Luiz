@@ -48,3 +48,10 @@ body {
 width: 24px;
 
 }
+
+.estudante-organizado {
+
+
+ display: grid;   
+ grid-template-columns: 20% 20% 20% 20%; 
+}
